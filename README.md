@@ -36,6 +36,9 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=poorvibajpai&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)<br>
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorvibajpai&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
-![Poorvi's Last 30 Days Github Activity Graph](https://poorvi-github-readme-activity-graph.vercel.app/graph?username=poorvibajpai&theme=tokyo-night)
+<div>
+<h3 alight="left">Activity:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poorvibajpai&" alt="poorvibajpai" /></p>
+</div>
 
 ---------------Thank You For Visiting----------------
