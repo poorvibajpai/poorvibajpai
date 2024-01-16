@@ -9,9 +9,9 @@
 </p>
 ## 🙋🏻‍♀ About Me
 
-- 👨🏽‍💻 I'm currently learning Django Framework
+- 👩🏻‍💻 I'm currently learning Django Framework
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/poorvibajpai?tab=repositories)**
+- 👩🏻‍💻 All of my projects are available at **[My Github Account](https://github.com/poorvibajpai?tab=repositories)**
 - 📫 You can reach me at [linkedin] or send me a personalized **<a href="www.linkedin.com/in/poorvi-bajpai-03248b26b">LinkedIn</a>** 
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact **I like to collect different types of creative project ideas and creating them.**
