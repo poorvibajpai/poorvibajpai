@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Poorvi Bajpai</h1>
+<p align="center">
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😎;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
+</p>
+
+<h1 align="center"> Hello Guys!🙋🏻‍♀, Poorvi's Here 🚩</h1>
+
 
 <h3 align="center">I'm a Frontend  and Backend developer .</h3>
 <p align="center">
