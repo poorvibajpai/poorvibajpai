@@ -47,4 +47,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poorvibajpai&" alt="poorvibajpai" /></p>
 </div>
 
+<h1 align="center"> 👉 Connect with Me 👈 </h1>
+<!-- <hr> -->
+
+<p align="center" align='right'>
+<a target="_blank"href="www.linkedin.com/in/poorvi-bajpai-03248b26b"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="mailto: poorvibajpai800@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 ---------------Thank You For Visiting----------------
