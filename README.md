@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😎;Happy+to+see+you+here+😀;Feel+free+to+look+around+😊;Let's+connect+together🤗;Have+a+great+day+😄"></a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+ 🌎;Welcome+to+my+profile+😎;Happy+to+see+you+here+😀;Feel+free+to+look+around+😊;Let's+connect+together🤗;Have+a+great+day+😄"></a>
 </p>
 
 <h1 align="center"> Hello Guys!🙋🏻‍♀, Poorvi's Here 🚩</h1>
@@ -47,7 +47,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poorvibajpai&" alt="poorvibajpai" /></p>
 </div>
 
-<h1 align="center"> 👉 Connect with Me 👈 </h1>
+<h1 align="center"> 👉Connect with Me👈 </h1>
 <!-- <hr> -->
 
 <p align="center" align='right'>
