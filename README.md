@@ -55,7 +55,8 @@
 </div>
 
 <h1 align="center"> 👉Connect with Me👈 </h1>
-<!-- <hr> -->
+
+
 
 <p align="center">
   <br>
@@ -65,6 +66,8 @@
   </a>
 </p>
 
+
+
 <!--
 
 <div align="center">
@@ -72,4 +75,5 @@
 <p align="center" align='right'>
 <a target="_blank"href="https://www.linkedin.com/in/poorvi-bajpai-03248b26b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a target="_blank"href="mailto: poorvibajpai800@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>-->
 
----------------Thank You For Visiting----------------
+<!---------------Thank You For Visiting---------------->
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
