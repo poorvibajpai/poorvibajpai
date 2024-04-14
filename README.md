@@ -6,9 +6,6 @@
 
 ## Hey there, I am Poorvi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-
-
-
 <h3>I'm a Frontend  and Backend developer .</h3>
 
 ![GitHub Follow](https://img.shields.io/github/followers/poorvibajpai.svg?style=social&label=Follow)
@@ -29,6 +26,8 @@
          <code><img height="60" width="60" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1709494136~exp=1709494736~hmac=3ab0e95a393e307698be233f90952740194b2185e0556155eb9c0aee09e0f9cc"/></code>    
   </a>
 </p>
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
+
 ## 🙋🏻‍♀ About Me
 
 - 👩🏻‍💻 I'm currently learning Django Framework
@@ -37,6 +36,8 @@
 - 📫 You can reach me at [linkedin] or send me a personalized **<a href="www.linkedin.com/in/poorvi-bajpai-03248b26b">LinkedIn</a>** 
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact **I like to collect different types of creative project ideas and creating them.**
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
+
 
 ## 🚀 Languages and Tools:
 
@@ -64,7 +65,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poorvibajpai&" alt="poorvibajpai" /></p>
 </div>
 
-<!--
 
-<!---------------Thank You For Visiting---------------->
+<img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
+
+![footer](https://github.com/Mrinank-Bhowmick/Mrinank-Bhowmick/blob/master/PNG/footer.png)
+
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
