@@ -4,21 +4,18 @@
 </p>
 --->
 
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24">
-  𝐇𝐞𝐥𝐥𝐨 &lt;World/&gt;!
-  <img src="GIF/Hi.gif" width="40" />
-</h1>
-<h1 align="center"> Hello Guys!🙋🏻‍♀, Poorvi's Here 🚩</h1>
+## Hey there, I am Poorvi! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-<h3 align="center">I'm a Frontend  and Backend developer .</h3>
-<p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=poorvibajpai">
-</a>
-<a href="https://github.com/bhanushuklaa?tab=followers"><img src="https://img.shields.io/github/followers/poorvibajpai?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
+
+
+<h3>I'm a Frontend  and Backend developer .</h3>
+
+![GitHub Follow](https://img.shields.io/github/followers/poorvibajpai.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/poorvibajpai?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=poorvibajpai"></a>
+
+<a href=#><img src="contributions.svg"></a>
 ## 🙋🏻‍♀ About Me
 
 - 👩🏻‍💻 I'm currently learning Django Framework
