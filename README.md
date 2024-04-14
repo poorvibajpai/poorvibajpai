@@ -16,6 +16,19 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=poorvibajpai"></a>
 
 <a href=#><img src="contributions.svg"></a>
+
+<h1 align="center"> 👉Connect with Me👈 </h1>
+
+<p align="center">
+  <br>
+  
+  <a href="https://www.linkedin.com/in/poorvi-bajpai-03248b26b/" target="_blank">
+    <code><img height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/179/179330.png"/></code>    
+  </a>
+   <a href="https://twitter.com/poorvi_bajpai" target="_blank">
+         <code><img height="60" width="60" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1709494136~exp=1709494736~hmac=3ab0e95a393e307698be233f90952740194b2185e0556155eb9c0aee09e0f9cc"/></code>    
+  </a>
+</p>
 ## 🙋🏻‍♀ About Me
 
 - 👩🏻‍💻 I'm currently learning Django Framework
@@ -52,8 +65,6 @@
 </div>
 
 <h1 align="center"> 👉Connect with Me👈 </h1>
-
-
 
 <p align="center">
   <br>
