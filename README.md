@@ -64,27 +64,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poorvibajpai&" alt="poorvibajpai" /></p>
 </div>
 
-<h1 align="center"> 👉Connect with Me👈 </h1>
-
-<p align="center">
-  <br>
-  
-  <a href="https://www.linkedin.com/in/poorvi-bajpai-03248b26b/" target="_blank">
-    <code><img height="60" width="60" src="https://cdn-icons-png.flaticon.com/512/179/179330.png"/></code>    
-  </a>
-   <a href="https://twitter.com/poorvi_bajpai" target="_blank">
-    <code><img height="60" width="60" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1709494136~exp=1709494736~hmac=3ab0e95a393e307698be233f90952740194b2185e0556155eb9c0aee09e0f9cc"/></code>    
-  </a>
-</p>
-
-
-
 <!--
-
-<div align="center">
-
-<p align="center" align='right'>
-<a target="_blank"href="https://www.linkedin.com/in/poorvi-bajpai-03248b26b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a target="_blank"href="mailto: poorvibajpai800@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>-->
 
 <!---------------Thank You For Visiting---------------->
 <img src="https://i.postimg.cc/NFcy3t7v/ligne-gif-discord-line.gif)](https://postimg.cc/tZBC6LMB" width="1000" height="5" />
